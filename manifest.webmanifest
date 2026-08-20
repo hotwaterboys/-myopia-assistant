@@ -1,11 +1,11 @@
 {
-  "name": "近视验光助手 Offline",
+  "name": "近视验光助手",
   "short_name": "近视验光助手",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f4f7fb",
-  "theme_color": "#2563eb",
+  "theme_color": "#4463ff",
   "icons": [
     {
       "src": "icon-192.png",
